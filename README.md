@@ -4,255 +4,95 @@ Automated multi-region rota generation system using rule-based logic and linear 
 
 ShiftSense – Automated Rota Generation System
 
-ShiftSense is a rule-based and optimisation-driven workforce scheduling system designed to generate fair and balanced weekly rotas across multi-region teams.
+ShiftSense is a rule-based and linear programming–driven workforce scheduling system designed to generate fair and balanced weekly rotas across multi-region teams.
 
-Built for operational environments requiring structured task allocation, ShiftSense combines linear programming, fairness tracking, and availability constraints to automate rota generation.
+Built for operational environments requiring structured task allocation, it automates shift coverage while ensuring fairness, availability compliance, and role rotation.
 
-🚀 Overview
+🚀 Features
 
-ShiftSense automates weekly rota creation by:
+1. Automated weekly rota generation
 
-Generating fair task assignments
+2. Linear programming–based coverage optimisation
 
-Tracking employee assignment history
+3. Fair task rotation with exhaustion tracking
 
-Preventing consecutive assignments for critical roles
+4. Persistent assignment history (task_data.json)
 
-Managing multiple task categories
+5. Prevention of consecutive critical-role assignments
 
-Handling holidays, leave, and availability constraints
+6. Multi-role support (Hypercare, SIM, DOR, WIMS, EOD)
 
-Ensuring rotation fairness across scheduling cycles
+7. Multi-region team support (UK, Barcelona, India)
 
-The system supports multi-region teams (e.g., UK, Barcelona, India) with structured shift patterns.
+8. Streamlit dashboard with CSV export
 
-🏗 System Architecture
+🏗 Architecture
 
-ShiftSense consists of four main layers:
+-> Input Layer
 
-1️⃣ Input Layer
+  - Schedule JSON (fixed shift schedule)
 
-Schedule JSON (fixed shift schedule)
+  - Holiday Tracker (Excel availability file)
 
-Holiday Tracker (Excel file)
+-> Optimisation Layer
 
-Team configuration settings
+  - Linear programming model for feasibility and shift coverage
 
-2️⃣ Optimisation Layer
+  - Rule-based assignment constraints
 
-Linear programming model for feasibility and coverage
+  - Fairness Engine
 
-Rule-based assignment constraints
+  - JSON-based task flags
 
-Shift coverage validation
+  - Rotation tracking per employee
 
-3️⃣ Fairness Engine
+  - Automatic reset when all employees complete a cycle
 
-task_data.json persistent state
+-> Interface Layer
 
-Task flags per employee
+  - Streamlit dashboard
 
-Rotation exhaustion detection
+  - Assignment history viewer
 
-Automatic reset logic when all employees complete a cycle
+  - CSV export functionality
 
-4️⃣ Interface Layer
+->  Input Format
 
-Built with Streamlit
+  - Schedule JSON
+      {
+        "employee_login": {
+          "Mon": "06:30-15:00",
+          "Tue": "11:30-20:00",
+          "Wed": "14:30-23:00"
+        }
+      }
 
-Interactive dashboard
 
-CSV export functionality
+-> Fairness Logic
 
-Assignment history search
+  - Track assignment history per employee
+  
+  - Prevent repeated task allocation within a cycle
+  
+  - Mark task flags (true / false)
+  
+  - Automatically reset flags when all employees are exhausted
+    
 
-📂 Required Input Files
-1️⃣ Schedule JSON
 
-Defines fixed employee shift schedules.
-
-Example:
-
-{
-  "employee_login": {
-    "Mon": "06:30-15:00",
-    "Tue": "11:30-20:00",
-    "Wed": "14:30-23:00"
-  }
-}
-
-Supported shifts:
-
-06:30–15:00 (Morning)
-
-09:30–18:00 (Mid-Morning)
-
-11:30–20:00 (Mid)
-
-14:30–23:00 (Night)
-
-23:30–08:30 (Midnight)
-
-2️⃣ Holiday Tracker (Excel)
-
-Defines daily availability.
-
-Codes:
-
-S1, S2, S3, S4 → Working
-
-H → Holiday
-
-P → Personal Leave
-
-S → Sick Leave
-
-Empty → Day Off
-
-🧠 Core Features
-✅ Fair Task Rotation
-
-Prevents repeated assignments within the same cycle
-
-Uses task flags stored in task_data.json
-
-Automatically resets when all employees have completed rotation
-
-✅ Multi-Role Allocation
-
-Supports assignment of:
-
-Hypercare
-
-SIM (Shift coverage)
-
-DOR (Daily Operations Review)
-
-WIMS (Workload Management)
-
-EOD (End of Day Report)
-
-✅ Consecutive-Day Protection
-
-Prevents assignment of sensitive roles (e.g., Hypercare) on consecutive days.
-
-✅ Multi-Region Support
-
-Handles:
-
-Time zone differences
-
-Local holidays
-
-Regional team segmentation
-
-✅ Persistent State Management
-
-task_data.json stores:
-
-Employee assignment history
-
-Task counts
-
-Date-based role allocation
-
-Fairness flags
-
-📊 Outputs
-
-ShiftSense generates:
-
-Weekly Rota View
-
-Daily Statistics Dashboard
-
-Shift Summary View
-
-CSV exports for:
-
-Full weekly rota
-
-Assignment history
-
-Statistics
-
-⚙️ How It Works
-
-Load schedule JSON
-
-Load holiday tracker
-
-Configure team roles
-
-Run optimisation
-
-Apply fairness rules
-
-Persist assignment history
-
-Export final rota
-
-🗄 task_data.json Structure
-
-The file stores:
-
-Employees
-
-Total assignments per role
-
-Assignment history
-
-Fairness tracking flags
-
-Date Assignments
-
-Role allocations per date
-
-Shift coverage mapping
-
-Task Flags
-
-true → already assigned this cycle
-
-false → eligible for assignment
-
-When all flags are true, the system resets automatically for the next cycle.
 
 🛠 Tech Stack
 
-Python
+  Python
 
-Streamlit
+  Streamlit
 
-Linear Programming (LP solver)
+  Linear Programming (LP solver)
+
+  Pandas
 
 JSON state management
 
-Pandas
-
-Excel integration
-
-🎯 Design Principles
-
-Fairness-first allocation
-
-Deterministic and explainable scheduling
-
-Separation of optimisation and rule layers
-
-Persistent state without database dependency
-
-Lightweight and deployable as standalone executable
-
-⚠️ Notes
-
-Do not manually edit task_data.json
-
-Use in-app reset functionality to clear assignment history
-
-Ensure input file formats are validated before generation
-
 📌 Version
 
-v1.0
-Built for enterprise rota management environments.
+v1.0 – Enterprise Rota Automation System
