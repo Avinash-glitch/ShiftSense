@@ -10,21 +10,21 @@ Built for operational environments requiring structured task allocation, it auto
 
 🚀 Features
 
-1. Automated weekly rota generation
-
-2. Linear programming–based coverage optimisation
-
-3. Fair task rotation with exhaustion tracking
-
-4. Persistent assignment history (task_data.json)
-
-5. Prevention of consecutive critical-role assignments
-
-6. Multi-role support (Hypercare, SIM, DOR, WIMS, EOD)
-
-7. Multi-region team support (UK, Barcelona, India)
-
-8. Streamlit dashboard with CSV export
+  - Automated weekly rota generation
+  
+  - Linear programming–based coverage optimisation
+  
+  - Fair task rotation with exhaustion tracking
+  
+  - Persistent assignment history (task_data.json)
+  
+  - Prevention of consecutive critical-role assignments
+  
+  - Multi-role support (Hypercare, SIM, DOR, WIMS, EOD)
+  
+  - Multi-region team support (UK, Barcelona, India)
+  
+  - Streamlit dashboard with CSV export
 
 🏗 Architecture
 
