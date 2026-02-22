@@ -1,0 +1,2154 @@
+{
+    "employees": {
+        "mariebak": {
+            "history": {
+                "28/12/2025": [
+                    "wims",
+                    "hypercare"
+                ],
+                "29/12/2025": [
+                    "hypercare"
+                ],
+                "01/01/2026": [
+                    "wims",
+                    "hypercare",
+                    "sim"
+                ],
+                "14/12/2025": [
+                    "hypercare"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "hypercare"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "hypercare"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 7,
+                "sim": 1,
+                "dor": 0,
+                "wims": 4,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": true,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "azeemaj": {
+            "history": {
+                "28/12/2025": [
+                    "hypercare",
+                    "sim",
+                    "wims"
+                ],
+                "29/12/2025": [
+                    "wims",
+                    "hypercare"
+                ],
+                "30/12/2025": [
+                    "hypercare"
+                ],
+                "31/12/2025": [
+                    "wims",
+                    "hypercare"
+                ],
+                "01/01/2026": [
+                    "hypercare",
+                    "wims"
+                ],
+                "14/12/2025": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "hypercare"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "hypercare"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 8,
+                "sim": 1,
+                "dor": 0,
+                "wims": 7,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": true,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "ratilalr": {
+            "history": {
+                "29/12/2025": [
+                    "hypercare",
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "hypercare",
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "sim",
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "hypercare"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "hypercare"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ],
+                "19/12/2025": [
+                    "hypercare"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 5,
+                "sim": 1,
+                "dor": 0,
+                "wims": 10,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": true,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "wpatchan": {
+            "history": {
+                "30/12/2025": [
+                    "wims",
+                    "dor"
+                ],
+                "31/12/2025": [
+                    "hypercare",
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims",
+                    "sim"
+                ],
+                "02/01/2026": [
+                    "hypercare"
+                ],
+                "03/01/2026": [
+                    "eod",
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 3,
+                "sim": 1,
+                "dor": 1,
+                "wims": 10,
+                "eod": 1
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": true,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "esinumac": {
+            "history": {
+                "30/12/2025": [
+                    "hypercare",
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims",
+                    "sim"
+                ],
+                "01/01/2026": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "hypercare"
+                ],
+                "03/01/2026": [
+                    "hypercare"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 5,
+                "sim": 1,
+                "dor": 0,
+                "wims": 8,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "ansbm": {
+            "history": {
+                "28/12/2025": [
+                    "wims"
+                ],
+                "29/12/2025": [
+                    "wims",
+                    "dor"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "03/01/2026": [
+                    "sim",
+                    "wims"
+                ],
+                "14/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 2,
+                "dor": 1,
+                "wims": 11,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "chnanu": {
+            "history": {
+                "28/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "29/12/2025": [
+                    "dor",
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "14/12/2025": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 1,
+                "wims": 14,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "darshbs": {
+            "history": {
+                "28/12/2025": [
+                    "wims"
+                ],
+                "29/12/2025": [
+                    "sim",
+                    "eod",
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims",
+                    "eod"
+                ],
+                "03/01/2026": [
+                    "wims"
+                ],
+                "14/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 2,
+                "dor": 0,
+                "wims": 13,
+                "eod": 2
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "keerdesa": {
+            "history": {
+                "28/12/2025": [
+                    "eod",
+                    "wims"
+                ],
+                "29/12/2025": [
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims",
+                    "sim"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "03/01/2026": [
+                    "wims"
+                ],
+                "14/12/2025": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "eod",
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ],
+                "19/12/2025": [
+                    "sim"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 2,
+                "dor": 0,
+                "wims": 13,
+                "eod": 2
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "maneadf": {
+            "history": {
+                "28/12/2025": [
+                    "wims",
+                    "eod"
+                ],
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "14/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 0,
+                "wims": 11,
+                "eod": 1
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "mopandi": {
+            "history": {
+                "28/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "29/12/2025": [
+                    "wims",
+                    "eod"
+                ],
+                "30/12/2025": [
+                    "wims",
+                    "eod"
+                ],
+                "01/01/2026": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "dor",
+                    "wims"
+                ],
+                "14/12/2025": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 1,
+                "wims": 14,
+                "eod": 2
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "paxkapil": {
+            "history": {
+                "28/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "29/12/2025": [
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "03/01/2026": [
+                    "wims",
+                    "sim"
+                ],
+                "14/12/2025": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 2,
+                "dor": 0,
+                "wims": 13,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "praswag": {
+            "history": {
+                "28/12/2025": [
+                    "wims",
+                    "sim"
+                ],
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims"
+                ],
+                "14/12/2025": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "dor",
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 1,
+                "wims": 15,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "sajidnaz": {
+            "history": {
+                "28/12/2025": [
+                    "wims"
+                ],
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "dor",
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "sim",
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 1,
+                "wims": 13,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "surpriye": {
+            "history": {
+                "28/12/2025": [
+                    "wims",
+                    "sim"
+                ],
+                "29/12/2025": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "14/12/2025": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 0,
+                "wims": 10,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "poshaln": {
+            "history": {
+                "28/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "29/12/2025": [
+                    "wims",
+                    "sim"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims",
+                    "sim"
+                ],
+                "14/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "sim",
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 11,
+                "dor": 0,
+                "wims": 15,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "huntkiri": {
+            "history": {
+                "29/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "sim",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "sim",
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 8,
+                "dor": 0,
+                "wims": 12,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "pavrobel": {
+            "history": {
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ],
+                "19/12/2025": [
+                    "sim"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 5,
+                "dor": 0,
+                "wims": 8,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "hjoiser": {
+            "history": {
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "sim",
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "03/01/2026": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "sim",
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 2,
+                "dor": 0,
+                "wims": 13,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "johdonaf": {
+            "history": {
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "dor",
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 1,
+                "wims": 10,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "petralim": {
+            "history": {
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 0,
+                "dor": 0,
+                "wims": 10,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "sasunnim": {
+            "history": {
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "03/01/2026": [
+                    "sim",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 0,
+                "wims": 13,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "shafaata": {
+            "history": {
+                "29/12/2025": [
+                    "wims",
+                    "sim"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "03/01/2026": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 0,
+                "wims": 13,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "avikann": {
+            "history": {
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "03/01/2026": [
+                    "sim",
+                    "wims",
+                    "eod"
+                ],
+                "15/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 2,
+                "dor": 0,
+                "wims": 13,
+                "eod": 1
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "chalhars": {
+            "history": {
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims",
+                    "sim"
+                ],
+                "31/12/2025": [
+                    "wims",
+                    "eod"
+                ],
+                "01/01/2026": [
+                    "sim",
+                    "eod",
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims",
+                    "sim"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 3,
+                "dor": 0,
+                "wims": 14,
+                "eod": 2
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": false,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "sheshasa": {
+            "history": {
+                "29/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "dor",
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "sim",
+                    "eod",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "eod",
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "sim",
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 4,
+                "dor": 1,
+                "wims": 14,
+                "eod": 2
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "shirisap": {
+            "history": {
+                "29/12/2025": [
+                    "wims"
+                ],
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "sim",
+                    "eod",
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims",
+                    "dor"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "eod",
+                    "wims"
+
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 4,
+                "dor": 1,
+                "wims": 14,
+                "eod": 2
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "tparinay": {
+            "history": {
+                "29/12/2025": [
+                    "wims",
+                    "sim"
+                ],
+                "30/12/2025": [
+                    "sim",
+                    "eod",
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims",
+                    "sim"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "eod",
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "dor",
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 3,
+                "dor": 1,
+                "wims": 14,
+                "eod": 2
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": true,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "raannepo": {
+            "history": {
+                "29/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims",
+                    "sim"
+                ],
+                "02/01/2026": [
+                    "sim",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "sim",
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 5,
+                "dor": 0,
+                "wims": 8,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "annadion": {
+            "history": {
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 0,
+                "wims": 9,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "ciur": {
+            "history": {
+                "30/12/2025": [
+                    "wims",
+                    "sim"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims",
+                    "eod"
+                ],
+                "02/01/2026": [
+                    "wims"
+                ],
+                "03/01/2026": [
+                    "wims",
+                    "sim"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 2,
+                "dor": 0,
+                "wims": 13,
+                "eod": 1
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "eeshica": {
+            "history": {
+                "30/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "wims",
+                    "dor"
+                ],
+                "03/01/2026": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 1,
+                "wims": 13,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": true,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "inkacap": {
+            "history": {
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims"
+                ],
+                "02/01/2026": [
+                    "sim",
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "dor",
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 1,
+                "wims": 9,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "pablcorc": {
+            "history": {
+                "30/12/2025": [
+                    "wims"
+                ],
+                "31/12/2025": [
+                    "wims",
+                    "dor"
+                ],
+                "02/01/2026": [
+                    "wims",
+                    "sim"
+                ],
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 1,
+                "wims": 10,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eo: false
+            }
+        },
+        "tulasiba": {
+            "history": {
+                "30/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "01/01/2026": [
+                    "sim",
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 4,
+                "dor": 0,
+                "wims": 6,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "elenaals": {
+            "history": {
+                "03/01/2026": [
+                    "wims",
+                    "sim"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 0,
+                "wims": 2,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "tdmdc": {
+            "history": {
+                "14/12/2025": [
+                    "eod",
+                    "wims"
+                ],
+                "15/12/2025": [
+                    "dor",
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "sim",
+                    "wims"
+                ],
+                "17/12/2025": [
+                    "wims"
+                ],
+                "18/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 1,
+                "dor": 1,
+                "wims": 5,
+                "eod": 1
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": true,
+                "dor": true,
+                "wims": true,
+                "eod": true
+            }
+        },
+        "piskailv": {
+            "history": {
+                "15/12/2025": [
+                    "wims"
+                ],
+                "16/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 0,
+                "dor": 0,
+                "wims": 2,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        },
+        "ramonjoc": {
+            "history": {
+                "17/12/2025": [
+                    "wims"
+                ]
+            },
+            "total_counts": {
+                "hypercare": 0,
+                "sim": 0,
+                "dor": 0,
+                "wims": 1,
+                "eod": 0
+            },
+            "task_flags": {
+                "hypercare": false,
+                "sim": false,
+                "dor": false,
+                "wims": true,
+                "eod": false
+            }
+        }
+    },
+    "date_assignments": {
+        "28/12/2025": {
+            "hypercare": [
+                "azeemaj",
+                "mariebak"
+            ],
+            "sim": {
+                "morning": "surpriye",
+                "mid": "azeemaj",
+                "night": "poshaln",
+                "midnight": "poshaln"
+            },
+            "dor": null,
+            "wims": [
+                "sajidnaz",
+                "mopandi",
+                "keerdesa",
+                "surpriye",
+                "ansbm",
+                "paxkapil",
+                "mariebak",
+                "praswag",
+                "chnanu",
+                "maneadf",
+                "poshaln",
+                "darshbs",
+                "azeemaj"
+            ],
+            "eod": "maneadf"
+        },
+        "29/12/2025": {
+            "hypercare": [
+                "ratilalr",
+                "mariebak",
+                "azeemaj"
+            ],
+            "sim": {
+                "morning": "huntkiri",
+                "mid": "shafaata",
+                "night": "tparinay",
+                "midnight": "poshaln"
+            },
+            "dor": "ansbm",
+            "wims": [
+                "hjoiser",
+                "sajidnaz",
+                "avikann",
+                "raannepo",
+                "shirisap",
+                "sheshasa",
+                "johdonaf",
+                "shafaata",
+                "sasunnim",
+                "azeemaj",
+                "chnanu",
+                "maneadf",
+                "tparinay",
+                "darshbs",
+                "keerdesa",
+                "ansbm",
+                "chalhars",
+                "praswag",
+                "surpriye",
+                "poshaln",
+                "mopandi",
+                "petralim",
+                "paxkapil",
+                "huntkiri",
+                "pavrobel",
+                "ratilalr"
+            ],
+            "eod": "mopandi"
+        },
+        "30/12/2025": {
+            "hypercare": [
+                "esinumac",
+                "azeemaj"
+            ],
+            "sim": {
+                "morning": "pavrobel",
+                "mid": "ciur",
+                "night": "chalhars",
+                "midnight": "tulasiba"
+            },
+            "dor": "wpatchan",
+            "wims": [
+                "inkacap",
+                "hjoiser",
+                "ratilalr",
+                "annadion",
+                "sajidnaz",
+                "avikann",
+                "shirisap",
+                "sheshasa",
+                "johdonaf",
+                "shafaata",
+                "sasunnim",
+                "chnanu",
+                "tulasiba",
+                "maneadf",
+                "tparinay",
+                "chalhars",
+                "praswag",
+                "eeshica",
+                "poshaln",
+                "ciur",
+                "pablcorc",
+                "mopandi",
+                "petralim",
+                "wpatchan",
+                "huntkiri",
+                "pavrobel",
+                "esinumac"
+            ],
+            "eod": "mopandi"
+        },
+        "31/12/2025": {
+            "hypercare": [
+                "wpatchan",
+                "ratilalr",
+                "azeemaj"
+            ],
+            "sim": {
+                "morning": "huntkiri",
+                "mid": "esinumac",
+                "night": "shirisap",
+                "midnight": "raannepo"
+            },
+            "dor": "pablcorc",
+            "wims": [
+                "inkacap",
+                "annadion",
+                "sajidnaz",
+                "avikann",
+                "raannepo",
+                "shirisap",
+                "sheshasa",
+                "johdonaf",
+                "esinumac",
+                "sasunnim",
+                "azeemaj",
+                "chnanu",
+                "tparinay",
+                "chalhars",
+                "praswag",
+                "eeshica",
+                "poshaln",
+                "ciur",
+                "pablcorc",
+                "petralim",
+                "huntkiri",
+                "ratilalr",
+                "wpatchan"
+            ],
+            "eod": "chalhars"
+        },
+        "01/01/2026": {
+            "hypercare": [
+                "azeemaj",
+                "mariebak"
+            ],
+            "sim": {
+                "morning": "mariebak",
+                "mid": "keerdesa",
+                "night": "tparinay",
+                "midnight": "poshaln"
+            },
+            "dor": "shirisap",
+            "wims": [
+                "hjoiser",
+                "ratilalr",
+                "mariebak",
+                "sajidnaz",
+                "shirisap",
+                "sheshasa",
+                "esinumac",
+                "shafaata",
+                "tulasiba",
+                "darshbs",
+                "keerdesa",
+                "chalhars",
+                "praswag",
+                "eeshica",
+                "poshaln",
+                "ciur",
+                "mopandi",
+                "paxkapil",
+                "wpatchan",
+                "tparinay",
+                "azeemaj"
+            ],
+            "eod": "ciur"
+        },
+        "02/01/2026": {
+            "hypercare": [
+                "wpatchan",
+                "esinumac"
+            ],
+            "sim": {
+                "morning": "huntkiri",
+                "mid": "pablcorc",
+                "night": "chalhars",
+                "midnight": "raannepo"
+            },
+            "dor": "eeshica",
+            "wims": [
+                "inkacap",
+                "hjoiser",
+                "ratilalr",
+                "annadion",
+                "avikann",
+                "raannepo",
+                "shirisap",
+                "sheshasa",
+                "shafaata",
+                "sasunnim",
+                "chnanu",
+                "maneadf",
+                "tparinay",
+                "darshbs",
+                "keerdesa",
+                "ansbm",
+                "chalhars",
+                "eeshica",
+                "surpriye",
+                "ciur",
+                "pablcorc",
+                "mopandi",
+                "paxkapil",
+                "huntkiri"
+            ],
+            "eod": "darshbs"
+        },
+        "03/01/2026": {
+            "hypercare": [
+                "esinumac"
+            ],
+            "sim": {
+                "morning": "paxkapil",
+                "mid": "ciur",
+                "night": null,
+                "midnight": null
+            },
+            "dor": null,
+            "wims": [
+                "ciur",
+                "avikann",
+                "keerdesa",
+                "hjoiser",
+                "shafaata",
+                "ansbm",
+                "paxkapil",
+                "sasunnim",
+                "eeshica",
+                "wpatchan",
+                "darshbs",
+                "elenaals"
+            ],
+            "eod": "avikann"
+        },
+        "14/12/2025": {
+            "hypercare": [
+                "mariebak"
+            ],
+            "sim": {
+                "morning": "ansbm",
+                "mid": "darshbs",
+                "night": "poshaln",
+                "midnight": "poshaln"
+            },
+            "dor": null,
+            "wims": [
+                "poshaln",
+                "praswag",
+                "maneadf",
+                "chnanu",
+                "ansbm",
+                "mopandi",
+                "paxkapil",
+                "darshbs",
+                "tdmdc",
+                "keerdesa",
+                "azeemaj",
+                "surpriye"
+            ],
+            "eod": "tdmdc"
+        },
+        "15/12/2025": {
+            "hypercare": [
+                "ratilalr",
+                "azeemaj"
+            ],
+            "sim": {
+                "morning": "huntkiri",
+                "mid": "avikann",
+                "night": "shirisap",
+                "midnight": "poshaln"
+            },
+            "dor": "tdmdc",
+            "wims": [
+                "raannepo",
+                "huntkiri",
+                "johdonaf",
+                "poshaln",
+                "sheshasa",
+                "chnanu",
+                "piskailv",
+                "paxkapil",
+                "tparinay",
+                "hjoiser",
+                "avikann",
+                "sasunnim",
+                "surpriye",
+                "tdmdc",
+                "mariebak",
+                "pablcorc",
+                "maneadf",
+                "mopandi",
+                "petralim",
+                "keerdesa",
+                "pavrobel",
+                "praswag",
+                "ansbm",
+                "shafaata",
+                "shirisap",
+                "darshbs",
+                "chalhars"
+            ],
+            "eod": "keerdesa"
+        },
+        "16/12/2025": {
+            "hypercare": [
+                "mariebak"
+            ],
+            "sim": {
+                "morning": "pavrobel",
+                "mid": "tdmdc",
+                "night": "sheshasa",
+                "midnight": "tulasiba"
+            },
+            "dor": "praswag",
+            "wims": [
+                "huntkiri",
+                "johdonaf",
+                "eeshica",
+                "poshaln",
+                "sheshasa",
+                "chnanu",
+                "piskailv",
+                "wpatchan",
+                "tulasiba",
+                "tparinay",
+                "hjoiser",
+                "sajidnaz",
+                "avikann",
+                "sasunnim",
+                "esinumac",
+                "surpriye",
+                "tdmdc",
+                "azeemaj",
+                "ratilalr",
+                "pablcorc",
+                "inkacap",
+                "maneadf",
+                "mopandi",
+                "annadion",
+                "petralim",
+                "pavrobel",
+                "praswag",
+                "ciur",
+                "shafaata",
+                "shirisap",
+                "chalhars"
+            ],
+            "eod": "tparinay"
+        },
+        "17/12/2025": {
+            "hypercare": [
+                "ratilalr",
+                "azeemaj"
+            ],
+            "sim": {
+                "morning": "pavrobel",
+                "mid": "johdonaf",
+                "night": "shirisap",
+                "midnight": "raannepo"
+            },
+            "dor": "inkacap",
+            "wims": [
+                "raannepo",
+                "huntkiri",
+                "johdonaf",
+                "eeshica",
+                "poshaln",
+                "sheshasa",
+                "chnanu",
+                "wpatchan",
+                "tparinay",
+                "sajidnaz",
+                "avikann",
+                "sasunnim",
+                "esinumac",
+                "tdmdc",
+                "mariebak",
+                "pablcorc",
+                "inkacap",
+                "annadion",
+                "petralim",
+                "pavrobel",
+                "praswag",
+                "ciur",
+                "ramonjoc",
+                "shirisap",
+                "chalhars"
+            ],
+            "eod": "sheshasa"
+        },
+        "18/12/2025": {
+            "hypercare": [
+                "mariebak"
+            ],
+            "sim": {
+                "morning": "huntkiri",
+                "mid": "hjoiser",
+                "night": "sheshasa",
+                "midnight": "poshaln"
+            },
+            "dor": "tparinay",
+            "wims": [
+                "huntkiri",
+                "johdonaf",
+                "eeshica",
+                "poshaln",
+                "sheshasa",
+                "wpatchan",
+                "tulasiba",
+                "paxkapil",
+                "tparinay",
+                "hjoiser",
+                "sajidnaz",
+                "esinumac",
+                "surpriye",
+                "tdmdc",
+                "azeemaj",
+                "ratilalr",
+                "pablcorc",
+                "inkacap",
+                "mopandi",
+                "annadion",
+                "petralim",
+                "keerdesa",
+                "pavrobel",
+                "praswag",
+                "ciur",
+                "ansbm",
+                "shafaata",
+                "shirisap",
+                "darshbs",
+                "chalhars"
+            ],
+            "eod": "shirisap"
+        },
+        "19/12/2025": : {
+            "hypercare": [
+                "ratilalr"
+            ],
+            "sim": {
+                "morning": "pavrobel",
+                "mid": "keerdesa",
+                "night": null,
+                "midnight": null
+            },
+            "dor": null,
+            "wims": [],
+            "eod": null
+        }
+    },
+    "task_cycles": {}
+}
